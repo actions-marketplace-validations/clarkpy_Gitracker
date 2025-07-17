@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > Any issues? Email `me@snowyjs.lol` or contact me on discord @ `snowyjs`. I would love to help!
-> If you don't want to do either of them simply make a new issue [Here](https://github.com/snowypy/Gitracker/issues/new)
+> If you don't want to do either of them simply make a new issue [Here](https://github.com/clarkpy/Gitracker/issues/new)
 
 ## Setting up Git Tracker:
 
